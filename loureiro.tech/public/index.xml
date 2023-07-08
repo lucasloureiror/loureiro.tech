@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lucas Loureiro</title>
+    <link>/</link>
+    <description>Recent content on Lucas Loureiro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AegisPass</title>
+      <link>/projects/aegis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/aegis/</guid>
+      <description>History AegisPass is a CLI tool designed for Software Engineers and DevOps Engineers/Site Reliability Engineers (SRE) to simplify the process of generating high quality random passwords across various platforms and operating systems. AegisPass uses cryptographically secure random numbers along with random.org API to generate random passwords, providing enhanced security for your applications and services with to generate Randomness Mixing.
+AegisPass is written in Go and is available for Linux, Windows, and macOS and it does not use anything out of the standard library and random.</description>
+    </item>
+    
+  </channel>
+</rss>
