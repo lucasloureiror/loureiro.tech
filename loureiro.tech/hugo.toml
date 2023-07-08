@@ -1,4 +1,4 @@
-title = "Lucas Loureiro"
+title = "Lucas Loureiro Rodrigues"
 theme = "gokarna"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -9,7 +9,7 @@ enableRobotsTXT = true
 pygmentsStyle = "monokai"
 
 [params]
-  footer = "Lucas Loureiro"
+  footer = "- Lucas Loureiro Rodrigues"
   description = "Site Reliability Engineer"
   avatarURL = "/images/me.jpg"
   AvatarAltText = "Lucas Loureiro's Avatar"
