@@ -38,7 +38,7 @@ pygmentsStyle = "monokai"
     {name = "linkedin", url = "https://www.linkedin.com/in/lucasloureiror/"},
     {name = "github", url = "https://github.com/lucasloureiror"},
     {name = "threads", url = "https://www.threads.net/@olucasloureiro"},
-    {name = "mastodon", url = "https://bolha.us/@loureiro"},
+    {name = "mastodon", url = "https://bolha.us/@loureiro", rel="me"},
     {name = "substack", url = "https://logicalbytes.substack.com/"},
   ]
   metaKeywords = ["DevOps", "SRE", "Software Engineer"]
